@@ -1,0 +1,4 @@
+# hey* >dev
+git add dev.md
+git commit -m 'first dev commit'
+echo # hey*
